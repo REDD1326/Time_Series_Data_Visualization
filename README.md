@@ -1,5 +1,5 @@
 <p align="center">
-  # Temporal Data Visualization 
+# Temporal Data Visualization 
 </p>
 
 <h2> Raptor long-term count and monitoring </h2>
