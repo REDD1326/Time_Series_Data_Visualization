@@ -1,9 +1,5 @@
-<p align="center">
-<h1> Temporal Data Visualization </h1>
-</p>
 
-<h2> Raptor long-term count and monitoring </h2>
-
+# Temporal Data Visualization: Raptor long-term count and monitoring
 
 ## Contents
 - [Raptor migration](#section1)  
