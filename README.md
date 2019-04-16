@@ -22,7 +22,6 @@ There are several long-term programs to monitor raptor abundance in North Americ
 * Bird Studies Canada (BSC).  
 
 The [Raptor Population Index (RPI)](http://rpi-project.org/data_collection.php) project represents a partnership between these four organizations in order to standardize raptor migration monitoring to detect temporal trends for species populations. RPI data has been collected from over 300 raptor watchsites operated by professionals and citizen-scientists for more than two decades. Each watch site has an operating protocol for data gathering, based on a [generalized site data collection protocol](http://rpi-project.org/docs/HMANA_Data_Collection_Protocol_20060611.pdf).
-Time_Series_Data_Visualization
 
 <a id = 'section2'></a>
 ## Case study
