@@ -93,7 +93,7 @@ Monitoring data may be heterogeneous among sites and even among years in sites. 
 
 Visualization is an important step in time series analysis, because it allows to identify temporal patterns, cycles or seasonality from data. Plotting time series at different time scales from a proper preprocessing of data can influence the definition of the best scale to use in time series forecasting. 
 
-There are different types of visualizations for time series, line plots are the most common approach. In this analysis, I will take a look at **heatmaps** as a option to visualize patterns in **Time Series data** at differente time scales.
+There are different types of visualizations for time series, line plots are the most common approach. In this analysis, I will take a look at **heatmaps** as a option to visualize patterns in **Time Series data** at different time scales.
 
 <a id = 'section5'></a>
 ## Objectives
