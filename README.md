@@ -30,7 +30,7 @@ Hawk count data collected by [HMANA](https://www.hawkcount.org/) will be used. D
 
 The counts from watchsites consist of tabular data with the following structure:
 
-- The columns include the count data for 30 raptor species and 9 columns for climate variables. 
+- The columns include the count data for 30 raptor species and 9 climate variables. 
 
 - The rows contain abundance data for raptors and climate variables measured **per day and per hour**
 
@@ -38,7 +38,7 @@ The counts from watchsites consist of tabular data with the following structure:
      
      -For this analysis only **autumn data** will be used (August 20 - November 20).
 
-- The data include hawk data **from 2008 to 2017** for the following **12 sites**:
+- The data include monitoring data **from 2008 to 2017** for the following **12 sites**:
 
     - Allegheny Front (USA)
     
@@ -77,7 +77,7 @@ The counts from watchsites consist of tabular data with the following structure:
 <a id = 'section3'></a>
 ## Count data as Time Series
 
-Daily migration monitoring data generates time series at different scales. A time series is a sequence of points measured at consistent time intervals. Time series data may include intervals of years, months, days, hours, and so on. 
+Daily migration monitoring data generates time series at different scales. A time series is a sequence of points measured at consistent time intervals. Time series data may include intervals of years, months, days, and so on. 
 
 Monitoring data may be heterogeneous among sites and even among years in sites. Major challenges to analyze raptor counts as a time series are:
 
@@ -88,13 +88,12 @@ Monitoring data may be heterogeneous among sites and even among years in sites. 
 * Biased distribution: many days when censuses have low or moderate results and few days when censuses report several birds.
 
 
-
 <a id = 'section4'></a>
 ## Time series data visualization
 
 Visualization is an important step in time series analysis, because it allows to identify temporal patterns, cycles or seasonality from data. Plotting time series at different time scales from a proper preprocessing of data can influence the definition of the best scale to use in time series forecasting. 
 
-There are different types of visualizations for time series, line plots are the most common approach. In this anaylisis, I will take a look at **heatmaps** as a option to visualize patterns in **Time Series data** at differente time scales.
+There are different types of visualizations for time series, line plots are the most common approach. In this analysis, I will take a look at **heatmaps** as a option to visualize patterns in **Time Series data** at differente time scales.
 
 <a id = 'section5'></a>
 ## Objectives
@@ -111,8 +110,8 @@ The main objectives are:
 Ruth Elena Delgado Dávila
 
 ## License
-This project is licensed under the MPL2.0 License - see the LICENSE file for details
 
+This project is licensed under the MPL2.0 License - see the LICENSE file for details
 
 ## Citations
 
