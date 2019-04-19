@@ -12,7 +12,7 @@
 <a id = 'section1'></a>
 ## Raptor migration
 
-On North America, every fall and spring raptors migrate to warmer climates, creating one of the greatest events on earth. Thousands of birds of prey from several species migrate using different strategies, some species are **solitary migrants** and other species form large **flocks**. Although, raptors generally prefer to migrate over level terrain sparsely. Mountains, oceans and lakes form natural barriers where birds converge along narrow pathways, generating an opportunity to readily observe and monitor the mass migration. 
+On North America, every fall and spring raptors migrate to warmer climates, creating one of the greatest events on earth. Thousands of birds of prey from several species migrate using different strategies, some species are **solitary migrants** and other species form large **flocks**. Raptors generally prefer to migrate over level terrain, thus mountains, oceans and lakes form natural barriers where birds converge. These narrow pathways generate an opportunity to readily observe and monitor the mass migration. 
 
 There are several long-term programs to monitor raptor abundance in North America. During monitoring, observers systematically count individuals of different diurnal raptors and collect data on weather and observation conditions. Four leading migration research organizations are:  
 
