@@ -61,7 +61,7 @@ The counts from watchsites consist of tabular data with the following structure:
 
     
 <p align="center">
-  <img src="images/map.png" width="550"/>
+  <img src="images/map.png" width="600"/>
 </p>
 
 <p align="center">
