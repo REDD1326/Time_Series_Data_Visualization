@@ -67,11 +67,12 @@ The counts from watchsites consist of tabular data with the following structure:
 <p align="center">
 <em>HMANA sites distribution</em>
 </p  
+     
+<br>
 
-## License
+## License  
 
 This project is licensed under the MPL2.0 License - see the LICENSE file for details
-
 
 ## Bibliography
 
