@@ -67,8 +67,6 @@ The counts from watchsites consist of tabular data with the following structure:
 <p align="center">
 <em>HMANA sites distribution</em>
 </p  
-     
-     
 
 ## License
 
